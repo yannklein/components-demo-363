@@ -1,0 +1,7 @@
+.banner {
+  padding: 64px 0;
+  color: white;
+  text-shadow: 0 0 8px rgba(0,0,0,0.3);
+  background-size: cover;
+  background-position: 50% 50%;
+}
